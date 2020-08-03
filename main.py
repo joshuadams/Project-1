@@ -11,3 +11,10 @@ else:
 
 
 
+book = {
+    'homogenous':'of the same kind',
+    'escapade' : 'exciting adventure',
+    'military' : 'serves our country'
+  }
+print(book.get('homogenous'))
+print(book.get('escapade'))
