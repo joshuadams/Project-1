@@ -1,3 +1,5 @@
-print('Hello Cool World!')
+for i in range(4):
+  print('Hello Cool World!')
+
 
 
